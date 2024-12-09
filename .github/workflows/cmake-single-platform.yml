@@ -32,5 +32,5 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: core-parser_arm64
-        path: bin/core-parser_arm64
+        path: bin/core-parser
 
